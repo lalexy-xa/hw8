@@ -9,9 +9,9 @@ import java.util.Objects;
 
 
 public class DatabaseStorage {
-    private static final String DB_URL = "jdbc:h2:~/test";
-    private static final String DB_PASSWORD = "";
-    private static final String DB_USER_NAME="sa";
+    private static final String DB_URL = "jdbc:postgresql://localhost:5432/hw";
+    private static final String DB_PASSWORD = "mypassword";
+    private static final String DB_USER_NAME="user";
     private static Connection connection;
 
     public static Connection getConnection() throws SQLException {

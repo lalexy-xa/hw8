@@ -1,0 +1,21 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(©›ûÿÿÿÿ8 ‰ƒ‚Î1
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(õ°ıØûÿÿÿÿ8¡‰ƒ‚Î1
+g	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(÷š´ğıÿÿÿÿ8¡‰ƒ‚Î1
+g	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(ãôœùÿÿÿÿ8¡‰ƒ‚Î1
+g	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(’¾÷üÿÿÿÿ8¡‰ƒ‚Î1
+b	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(ñË×8àÏƒ‚Î1
+g	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(’¾÷üÿÿÿÿ8É´…‚Î1
+b	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(ñ£à8ıŞ…‚Î1
+q
+java:S2095?"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Â¼Û™úÿÿÿÿ8­‰ƒ‚Î1
+q
+java:S20955"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‚Æç“şÿÿÿÿ8­‰ƒ‚Î1
+k
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ĞŒ±8­‰ƒ‚Î1
+l
+java:S2095H"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(†ò•µ8­‰ƒ‚Î1
+q
+java:S2095+"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Š€Ø€ıÿÿÿÿ8­‰ƒ‚Î1
+•
+java:S1130"sRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from constructor's body.(íÌÇ£üÿÿÿÿ8°‰ƒ‚Î1

@@ -1,0 +1,17 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ÿ¯Î8‘ä“‡Î1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÒÙÒ8‘ä“‡Î1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºß³ì8‘ä“‡Î1
+]
+java:S1128";Remove this unused import 'org.example.db.DatabaseStorage'.(üÊÛáÿÿÿÿÿ8ó¼“‡Î1
+Z
+java:S1128"8Remove this unused import 'org.example.entities.Client'.(÷•»¹úÿÿÿÿ8Ö–’‡Î1
+\
+java:S1128"?Remove this unused import 'org.example.services.ClientService'.(ß±ƒ8ó¼“‡Î1
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8ô¼“‡Î1
+O
+java:S1128	"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8×–’‡Î1
+O
+java:S1128
+"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8×–’‡Î1

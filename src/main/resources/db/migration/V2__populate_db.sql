@@ -1,16 +1,16 @@
-INSERT INTO worker
-(ID,NAME,BIRTHDAY,LEVEL,SALARY)
-VALUES
-(1, 'Alex', '2000-01-01', 'Junior', 900),
-(2, 'Nic', '1995-02-01', 'Senior', 5100),
-(3, 'Nelly', '1990-03-01', 'Middle', 2000),
-(4, 'Marel', '2003-04-01', 'Trainee', 700),
-(5, 'Mira', '1992-05-01', 'Middle', 1900),
-(6, 'Greg', '1992-06-01', 'Trainee', 600),
-(7, 'Sofy', '1990-07-01', 'Senior', 5700),
-(8, 'Martin', '1994-08-01', 'Junior', 900),
-(9, 'Martin', '1998-09-01', 'Trainee', 500),
-(10, 'Sofy', '1997-10-01', 'Junior', 900);
+--INSERT INTO worker
+--(ID,NAME,BIRTHDAY,LEVEL,SALARY)
+--VALUES
+--(1, 'Alex', '2000-01-01', 'Junior', 900),
+--(2, 'Nic', '1995-02-01', 'Senior', 5100),
+--(3, 'Nelly', '1990-03-01', 'Middle', 2000),
+--(4, 'Marel', '2003-04-01', 'Trainee', 700),
+--(5, 'Mira', '1992-05-01', 'Middle', 1900),
+--(6, 'Greg', '1992-06-01', 'Trainee', 600),
+--(7, 'Sofy', '1990-07-01', 'Senior', 5700),
+--(8, 'Martin', '1994-08-01', 'Junior', 900),
+--(9, 'Martin', '1998-09-01', 'Trainee', 500),
+--(10, 'Sofy', '1997-10-01', 'Junior', 900);
 
 INSERT INTO client
 (NAME)

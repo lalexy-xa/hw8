@@ -13,15 +13,17 @@ import java.util.Arrays;
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) throws Exception {
-        String DB_URL = "jdbc:h2:~/test";
-        String DB_PASSWORD = "";
-        String DB_USER_NAME="sa";
+        String DB_URL = "jdbc:postgresql://localhost:5432/hw";
+        String DB_PASSWORD = "mypassword";
+        String DB_USER_NAME="user";
 
         Flyway fly = Flyway.configure()
                 .dataSource(DB_URL, DB_USER_NAME, DB_PASSWORD)
                 .load();
 
         fly.migrate();
+
+
 
     }
 }
